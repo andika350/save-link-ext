@@ -4,6 +4,7 @@ Saved links from input or current tab from google chrome.
 Featuring input text, save button, save current tab button, and clear all saved links button.
 
 try app link:  https://andika350.github.io/save-link-ext/
+
 PS. save current tab function will not work, it must run as an extension in order to fetch chrome.tab.url API.
 
 To install it as chrome extension:
@@ -17,7 +18,8 @@ Copy and paste link you want to save to the input text area then press "save lin
 It will automaticly render the saved links under the buttons.
 
 "Clear all saved links" Button will remove all saved links, it comes with confirmation, but still becareful!
-<---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 What I've learned from this:
 -Const
 -Eventlistener
