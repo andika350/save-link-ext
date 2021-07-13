@@ -18,7 +18,8 @@ Copy and paste link you want to save to the input text area then press "save lin
 It will automaticly render the saved links under the buttons.
 
 "Clear all saved links" Button will remove all saved links, it comes with confirmation, but still becareful!
-<--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<---------------------------------------------------------------------------------------------------------------------------->
 
 What I've learned from this:
 -Const
